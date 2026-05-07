@@ -174,7 +174,7 @@ This project was collaboratively developed by a team of 10 members, with each gr
 |----------------|--------------|------------------|
 | **Step 1: Exploratory Data Analysis (EDA)** | Melanie Ouya & Stephanie Kirirgo | Data exploration, summary statistics, feature analysis, identifying patterns and scale differences |
 | **Step 2: Data Preprocessing** | Melanie Ouya & Stephanie Kirirgo | Data cleaning, feature scaling, preprocessing using `StandardScaler` |
-| **Step 3: K-Means Clustering** | Teddy Dan Mudanya & Mary Wambua | Implementation of K-Means clustering and evaluation using internal and external metrics |
+| **Step 3: K-Means Clustering** | Teddy Dan Mudanya & Mary Wamamba | Implementation of K-Means clustering and evaluation using internal and external metrics |
 | **Step 3: Hierarchical Clustering** | Stacy Muhia & Margret Wangari | Implementation of Hierarchical Clustering and evaluation using internal and external metrics |
 | **Step 3: DBSCAN Clustering** | Mercy Wanjiru & Brian Kibet | Implementation of DBSCAN clustering and evaluation using internal and external metrics |
 | **Step 4: Evaluation Metrics** | Clustering Teams | Performance evaluation using metrics such as Silhouette Score and Adjusted Rand Index (ARI) |
